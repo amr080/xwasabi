@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fboost\u002F[slug]","\u002Fcollection\u002F[contractAddress]","\u002Fgold\u002F[fileName]","\u002Fperps\u002F[positionId]","\u002Ftrade\u002F[positionId]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
